@@ -1,0 +1,5 @@
+{"_id":{"$oid":"5ea2838817ddf8e9db881e82"},"product_name":"Royal DeMaria","Price":9490,"category":{"$oid":"5ea26a8617ddf8e9db8818d5"}}
+{"_id":{"$oid":"5ea2838817ddf8e9db881e88"},"product_name":"Chateau d’Yquem","Price":32900,"category":{"$oid":"5ea26a8617ddf8e9db8818d5"}}
+{"_id":{"$oid":"5ea2838817ddf8e9db881e8b"},"product_name":"KETEL ONE","Price":24900,"category":{"$oid":"5ea26a6717ddf8e9db8818bf"}}
+{"_id":{"$oid":"5ea2838817ddf8e9db881e8e"},"product_name":"CRYSTAL HEAD","Price":35900,"category":{"$oid":"5ea26a6717ddf8e9db8818bf"}}
+{"_id":{"$oid":"5ea74e6f133e000033000826"},"product_name":"jack Daniel's Old No. 7 Tennessee Whiskey 1.0L","Price":"2000","category":{"$oid":"5ea26a3e17ddf8e9db8818a9"}}

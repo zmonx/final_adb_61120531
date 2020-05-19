@@ -1,0 +1,3 @@
+{"_id":{"$oid":"5ea26a3e17ddf8e9db8818a9"},"categories_id":"1","categories_name":"Whiskey"}
+{"_id":{"$oid":"5ea26a6717ddf8e9db8818bf"},"categories_id":"2","categories_name":"Vodka"}
+{"_id":{"$oid":"5ea26a8617ddf8e9db8818d5"},"categories_id":"3","categories_name":"Wine"}
